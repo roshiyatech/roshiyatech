@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋, I'm Nagajan Roshiya
 
-<!--
-**roshiyatech/roshiyatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Founder of ROSHIYAtech
 
-Here are some ideas to get you started:
+💻 Full Stack Developer  
+📱 Android App Developer  
+🛠 IT Support Engineer  
+🌐 Website Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+- 🔭 Working on Website & Android Development
+- 🌱 Learning Advanced Backend Development
+- 👨‍💻 Building Business Solutions
+- ⚡ Passionate About Technology
+
+---
+
+## 🛠 Skills
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Backend
+- PHP
+- Node.js
+- Express.js
+
+### Database
+- MySQL
+- MongoDB
+- Firebase
+
+### Android
+- Java
+- XML
+- Android Studio
+
+---
+
+## 🚀 Projects
+
+### 🌐 ROSHIYAtech Website
+https://roshiyatech.com
+
+### 🛠 ITSM Tool
+Ticket & Incident Management System
+
+### 📱 Temple Finder App
+Android App Project
+
+---
+
+## 📫 Contact
+
+🌐 Website: https://roshiyatech.com  
+📧 Email: dev@roshiyatech.com
+📱 WhatsApp: https://wa.me/918673867334
+
+---
+
+## ⚡ Fun Fact
+
+I love building real-world IT solutions 🚀
